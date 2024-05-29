@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Dungeon Wizard",
+	"Description": "Prototype dungeons and mazes, ready to use or modify",
+	"Category": "Other",
+	"CreatedBy": "Bianca Bellof",
+	"CreatedByURL": "https://github.com/Finderadeis",
+	"DocsURL": "https://github.com/Finderadeis/UnrealDungeonWizard",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"SupportedTargetPlatforms": [
+		"Win64"
+	],
+	"Modules": [
+		{
+			"Name": "DW",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
