@@ -132,7 +132,7 @@ Meshes and Actors get spawned separately and sorted into categorized folders in 
 
 ![image](https://github.com/Finderadeis/UnrealDungeonWizard/assets/79834166/77d1dcdf-cb40-44dd-b384-0ba3a7bce3d0)
 
-## "Pure Maze" Mode
+### "Pure Maze" Mode
 
 ![image](https://github.com/Finderadeis/UnrealDungeonWizard/assets/79834166/af6fc592-d9fd-4a70-87b6-c2a97a059eb8)
 
@@ -142,7 +142,7 @@ Parameters and used assets are determined by the Presets Asset.
 
 Hold Ctrl + Shift and click on the BaseMesh to spawn the Maze.
 
-## "Linear Rooms" Mode
+### "Linear Rooms" Mode
 
 ![image](https://github.com/Finderadeis/UnrealDungeonWizard/assets/79834166/0045d87b-29fe-4b2a-8a0f-b88afcc808ee)
 
@@ -152,7 +152,7 @@ Parameters and used assets are determined by the Presets Asset.
 
 Hold Ctrl + Shift and click on the BaseMesh to spawn the Dungeon. 
 
-## "Draw Layout" Mode
+### "Draw Layout" Mode
 
 ![image](https://github.com/Finderadeis/UnrealDungeonWizard/assets/79834166/8625e584-3d84-42f3-a0c0-4204536578a3)
 
